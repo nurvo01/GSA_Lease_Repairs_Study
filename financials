@@ -1,0 +1,47 @@
+@relation ‘study01PMfinancials4’
+
+@attribute project_id NUMERIC
+@attribute funding NUMERIC
+@attribute type {lease, repair, new, design, service}
+
+@data
+43024,991227,lease
+50236,2116926,new
+50240,219763,repair
+24610,997684,repair
+33896,1615211,new
+43436,3895386,repair
+41858,6915,repair
+43298,19670,repair
+43849,30190,repair
+43942,26660,repair
+44143,67211,repair
+49531,2924082,service
+49801,63000,new
+46063,350945,repair
+51455,290341,repair
+54366,437522,repair
+44960,370341,design
+48473,48281,repair
+53347,99000,new
+55970,68843,repair
+43522,196591,lease
+43164,756836,repair
+43941,3525788,repair
+49775,6068301,repair
+52807,1322146,repair
+46993,378737,repair
+50190,99818,lease
+50984,36251,lease
+41463,4707635,repair
+45112,1476345,repair
+46992,445537,new
+52394,100000,repair
+52823,42452,repair
+54223,120325,repair
+47625,2284,repair
+54045,147879,new
+31780,1344004,repair
+34461,4731789,repair
+35363,7026914,repair
+35937,4701293,repair
